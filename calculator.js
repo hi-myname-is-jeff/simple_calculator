@@ -20,7 +20,7 @@ function divide(a, b) {
 
 module.exports = { add, subtract, multiply, divide };
 
-// Example usage
+// Example usage 12345
 if (require.main === module) {
     const x = 10;
     const y = 5;
