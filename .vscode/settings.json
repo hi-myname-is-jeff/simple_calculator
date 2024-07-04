@@ -1,3 +1,6 @@
 {
-    "DockerRun.DisableDockerrc": true
+    "DockerRun.DisableDockerrc": true,
+    "yaml.schemas": {
+        "https://gitlab.com/gitlab-org/gitlab/-/raw/master/app/assets/javascripts/editor/schema/ci.json": "file:///d%3A/tai%20lieu%20hoc%20tap/simple_calculator/simple_calculator/.gitlab-ci.yml"
+    }
 }
