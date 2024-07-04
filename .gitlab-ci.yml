@@ -1,3 +1,4 @@
+image: node:14
 variables:
     IMAGE_NAME: baopham2002/simple_calculator
     IMAGE_TAG: node-app-1.0
